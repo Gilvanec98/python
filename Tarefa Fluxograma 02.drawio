@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2024-02-27T22:21:57.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BOlH9gWtyttO6TbUUpLY" version="23.1.5" type="device">
+  <diagram name="Página-1" id="dm12_-1wvGhqodnpriao">
+    <mxGraphModel dx="1674" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mxU0-J78nVt8xAuA3imz-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mxU0-J78nVt8xAuA3imz-4" target="mxU0-J78nVt8xAuA3imz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-4" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="164" y="-194" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-6" value="num_1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="164" y="-10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mxU0-J78nVt8xAuA3imz-7" target="mxU0-J78nVt8xAuA3imz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-7" value="&quot;Insira um numero (1ª)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="-113" width="111" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-9" value="&quot;Insira um numero (2ª)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="155.5" y="68" width="111" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mxU0-J78nVt8xAuA3imz-11" target="mxU0-J78nVt8xAuA3imz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-11" value="num_2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="161" y="166" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mxU0-J78nVt8xAuA3imz-12" target="mxU0-J78nVt8xAuA3imz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-12" value="div=num_1/num_2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140.5" y="259" width="129" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mxU0-J78nVt8xAuA3imz-13" target="mxU0-J78nVt8xAuA3imz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-13" value="&quot;A divisão entre os número informados (1) e (2) é &quot;,div" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="125.63" y="382" width="155.75" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-14" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="153.5" y="511" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mxU0-J78nVt8xAuA3imz-6" target="mxU0-J78nVt8xAuA3imz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxU0-J78nVt8xAuA3imz-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mxU0-J78nVt8xAuA3imz-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="211" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
