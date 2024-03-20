@@ -5,12 +5,12 @@ if (idade >= 65):
 
         print('Idosa')
 
-else:
+    
 
-    if (idade >= 18):
+elif (idade >= 18):
         print('Adulta')
 
-    else:
+else:
 
     
         print('Menor de Idade')
